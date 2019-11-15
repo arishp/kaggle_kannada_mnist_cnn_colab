@@ -1,0 +1,2 @@
+# kaggle_kannada_mnist_cnn_colab
+The code in this repository is a simple extension to the classic MNIST kaggle competition solution. Instead of using Arabic numerals, it uses a recently-released dataset of Kannada digits.  Kannada is a language spoken predominantly by people of Karnataka in southwestern India. The language has roughly 45 million native speakers and is written using the Kannada script. GitHub repo of the dataset can be found in: https://github.com/vinayprabhu/Kannada_MNIST
